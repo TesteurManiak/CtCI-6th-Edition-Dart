@@ -1,7 +1,8 @@
 bool checkPermutation(String string1, String string2) {
   if (string1.length != string2.length) return false;
-
-  return true;
+  final chars1 = string1.split('')..sort();
+  final chars2 = string2.split('')..sort();
+  return chars1.join() == chars2.join();
 }
 
 void main(List<String> arguments) {
