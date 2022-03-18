@@ -6,6 +6,7 @@ Cracking the Coding Interview 6th Ed. Solutions in Dart Language
 ### Chapter 1 | Arrays and Strings
 
 * [x] Is Unique
+* [ ] Check Permutation
 
 ## Credits
 
