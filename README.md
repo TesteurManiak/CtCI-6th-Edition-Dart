@@ -7,7 +7,7 @@ Cracking the Coding Interview 6th Ed. Solutions in Dart Language
 
 * [x] Is Unique
 * [x] Check Permutation
-* [ ] URLify
+* [x] URLify
 
 ## Credits
 

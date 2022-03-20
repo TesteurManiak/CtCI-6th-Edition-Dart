@@ -16,5 +16,5 @@ Hints: #53, # 118
 ## Run
 
 ```bash
-$> dart ./bin/check_permutation.dart <string_one> <string_two>
+$> dart ./bin/urlify.dart <string> <length>
 ```
