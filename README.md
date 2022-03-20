@@ -9,7 +9,7 @@ Cracking the Coding Interview 6th Ed. Solutions in Dart Language
 * [x] Check Permutation
 * [x] URLify
 * [x] Palindrome Permutation
-* [ ] One Away
+* [ ] One Away (ongoing)
 * [ ] String Compression
 
 ## Credits
